@@ -3,7 +3,6 @@ This is a repo designated to keeping track of all work/challenges I complete wit
 
 ## Progress
 
-### Prerequisite Knowledge
+~~### Prerequisite Knowledge~~
 
-- [ ] **Learn C**
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+~~**Learn C**~~
